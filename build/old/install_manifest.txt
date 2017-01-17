@@ -1,0 +1,17 @@
+/home/polaris/catkin_ws/install/_setup_util.py
+/home/polaris/catkin_ws/install/env.sh
+/home/polaris/catkin_ws/install/setup.bash
+/home/polaris/catkin_ws/install/setup.sh
+/home/polaris/catkin_ws/install/setup.zsh
+/home/polaris/catkin_ws/install/.rosinstall
+/home/polaris/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/polaris/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/polaris/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/polaris/catkin_ws/install/share/beginner_tutorials/package.xml
+/home/polaris/catkin_ws/install/lib/pkgconfig/polaris_sensor.pc
+/home/polaris/catkin_ws/install/share/polaris_sensor/cmake/polaris_sensorConfig.cmake
+/home/polaris/catkin_ws/install/share/polaris_sensor/cmake/polaris_sensorConfig-version.cmake
+/home/polaris/catkin_ws/install/share/polaris_sensor/package.xml
+/home/polaris/catkin_ws/install/lib/libpolaris_sensor.so
+/home/polaris/catkin_ws/install/lib/polaris_sensor/polaris_sensor_node
+/home/polaris/catkin_ws/install/include/polaris_sensor/polaris_sensor.h

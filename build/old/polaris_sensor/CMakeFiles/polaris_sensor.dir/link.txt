@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libpolaris_sensor.so -o /home/polaris/catkin_ws/devel/lib/libpolaris_sensor.so CMakeFiles/polaris_sensor.dir/src/polaris_sensor.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/polaris/catkin_ws/install
+
+Name: polaris_sensor
+Description: Description of polaris_sensor
+Version: 1.0.1
+Cflags: -I/home/polaris/catkin_ws/install/include
+Libs: -L/home/polaris/catkin_ws/install/lib -lpolaris_sensor
+Requires: geometry_msgs roscpp serial sensor_msgs

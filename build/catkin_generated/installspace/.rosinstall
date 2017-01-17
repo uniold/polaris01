@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/polaris/catkin_ws/install/setup.sh

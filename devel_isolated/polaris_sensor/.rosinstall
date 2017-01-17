@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/polaris/catkin_ws/devel_isolated/polaris_sensor/setup.sh
